@@ -1,0 +1,6 @@
+{
+  "name": "ÉLVORA SMART",
+  "description": "Sistema empresarial e industrial con simulación inteligente para la gestión de producción, inventario, proveedores, clientes y calidad de Élvora S.A.S.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
